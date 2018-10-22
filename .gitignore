@@ -1,0 +1,12 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.idea
+*.iws
+*.iml
+*.ipr
+*.pid
+targetlog*.json
+elastic.log.locationcheckstyle*
+*/src/docs/asciidoc/
+/external-cra-application.pid
+/application/src/main/docs/asciidoc/*
